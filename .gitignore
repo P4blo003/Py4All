@@ -1,3 +1,5 @@
 # ---- Folders ----
 # Virtual environments.
 venv/
+# Python cache directories.
+__pycache__/
